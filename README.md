@@ -2,13 +2,13 @@
 
 This serves as a starting guide to what is intended for the community app. The list of features is shore and brief to provide a discussion point during the Laravel Meetup, details will keep on changing after community discussions. 
 
-**Hosting:** Hosting provided by [Ralph Owino Consulting](ralphowino.com)
-**Domain:** laravel.co.ke purchased by date of meetup 13th or 20th 
-**Style Guide:** To be provided.
-**Core Contributors:** Reach out to interested Members
-**Architecture:** Laravel & Angular
-**Communication:** Create issues and have conversation within the issue. Join larachat.co and leave your username in issue #1 for an invitation to the channel laravel254. Other discussions in Laravel Nairobi whatsapp group 
-**Primary Maintainers:** Ralph Owino Consulting.
+- **Hosting:** Hosting provided by [Ralph Owino Consulting](ralphowino.com)
+- **Domain:** laravel.co.ke purchased by date of meetup 13th or 20th 
+- **Style Guide:** To be provided.
+- **Core Contributors:** Reach out to interested Members
+- **Architecture:** Laravel & Angular
+- **Communication:** Create issues and have conversation within the issue. Join larachat.co and leave your username in issue #1 for an invitation to the channel laravel254. Other discussions in Laravel Nairobi whatsapp group 
+- **Primary Maintainers:** Ralph Owino Consulting.
 
 **FEATURES / PAGES**
 -	Auth
